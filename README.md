@@ -15,4 +15,4 @@ Mark tasks as completed
 Delete tasks
 Interactive UI
 
-⭐Hosted Link-https:https://github.com/anirudhramesh12/to-do-list-app.git
+⭐Hosted Link - https://anirudhramesh12.github.io/to-do-list-app/
